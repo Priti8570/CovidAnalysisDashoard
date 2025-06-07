@@ -38,3 +38,11 @@ Africa and Western Pacific have the lowest case counts.
 
 Sankey chart shows flow of cases from regions to top-affected countries.
 
+## Dataset used
+[Dataset](https://github.com/Priti8570/CovidAnalysisDashoard/blob/main/Covid%20Dataset.csv)
+
+
+## Dashboard
+[Dashboard1](https://github.com/Priti8570/CovidAnalysisDashoard/blob/main/Screenshot%202025-06-07%20225711.png)
+[Dashboard2](https://github.com/Priti8570/CovidAnalysisDashoard/blob/main/Screenshot%202025-06-07%20225724.png)
+[Dashboard3](https://github.com/Priti8570/CovidAnalysisDashoard/blob/main/Screenshot%202025-06-07%20231616.png)
